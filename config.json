@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvonnect",
+        "uuid": 1227860,
+        "checksum": "93g73g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
